@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "env_rest_tutorial\\Scripts\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 120,
+    "git.ignoreLimitWarning": true
+}
