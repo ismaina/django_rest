@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+env_rest_tutorial
+db.sqlite3
+/static
+.DS_Store
